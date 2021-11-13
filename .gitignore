@@ -1,0 +1,13 @@
+# Default
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#
+.DS_Store
+.Rapp.history
+
+# Example code in progress
+*-Ex.R
+*-Ex.Rmd
